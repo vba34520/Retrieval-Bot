@@ -3,7 +3,7 @@
 
 属于检索式问答系统，采用倒排索引+TFIDF+余弦相似度。
 
-[语料地址](http://idl.baidu.com/WebQA.html)已失效
+[语料地址](http://idl.baidu.com/WebQA.html)已失效，已附带在本项目中，43.6Mb，若下载速度较慢可使用[百度网盘](https://pan.baidu.com/s/1TKbyLOj1lRoFUa6mKl5sTw)（frph）
 
 相关论文：[Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering](https://arxiv.org/abs/1607.06275)
 
